@@ -32,7 +32,7 @@ This repository contains a conversational retrieval system implemented using the
     ```
 
     The application will run on `http://localhost:5000`.
-# Sample Queries
+## Sample Queries
 Query:
 ----------------
 Enter your query: give me product description about garlic oil
