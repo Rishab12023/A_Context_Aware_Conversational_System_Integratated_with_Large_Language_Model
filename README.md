@@ -33,23 +33,24 @@ This repository contains a conversational retrieval system implemented using the
 
     The application will run on `http://localhost:5000`.
 ## Sample Queries
-Query:
-----------------
-Enter your query: give me product description about garlic oil
 
-System Response:
------------------
-Response: This Product contains Garlic Oil that is known to help proper digestion, maintain proper cholesterol levels, support cardiovascular and also build immunity.
-Query:
-----------------
-Enter your query: Suggest some good hair products
-
-System Response:
------------------
-Response: Biotin & Collagen Volumizing Hair Shampoo + Biotin & Collagen Hair Conditioner, Argan-Liquid Gold Hair Spa, Cold Pressed Bhringraj Cooling Oil For Hair Fall & Damage Control
-Query:
------------------
-Enter your query: what is ginger oil
+    Query:
+    ----------------
+    Enter your query: give me product description about garlic oil
+    
+    System Response:
+    -----------------
+    Response: This Product contains Garlic Oil that is known to help proper digestion, maintain proper cholesterol levels, support cardiovascular and also build immunity.
+    Query:
+    ----------------
+    Enter your query: Suggest some good hair products
+    
+    System Response:
+    -----------------
+    Response: Biotin & Collagen Volumizing Hair Shampoo + Biotin & Collagen Hair Conditioner, Argan-Liquid Gold Hair Spa, Cold Pressed Bhringraj Cooling Oil For Hair Fall & Damage Control
+    Query:
+    -----------------
+    Enter your query: what is ginger oil
 
 System Response:
 -----------------
