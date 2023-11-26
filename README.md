@@ -33,7 +33,6 @@ This repository contains a conversational retrieval system implemented using the
 
     The application will run on `http://localhost:5000`.
 # Sample Queries
-======================================================================================================================================================================
 === Welcome to the Conversational Retrieval System ===
 This script interacts with a Flask API for contextual answers.
 Enter your query, and the system will provide a response.
