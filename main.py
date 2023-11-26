@@ -21,7 +21,7 @@ def load_llm():
     return llm
 
 # Instantiate a CSVLoader to load data from a CSV file
-loader = CSVLoader(file_path=r"E:\chabhi\chatwithcsv\chatwithcsv\newData.csv", encoding="utf-8", csv_args={'delimiter': ','})
+loader = CSVLoader(file_path=r"E:\chabhi\chatwithcsv\chatwithcsv\bigBasketProducts.csv", encoding="utf-8", csv_args={'delimiter': ','})
 data = loader.load()
 
 # Create embeddings using the HuggingFaceEmbeddings class
