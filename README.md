@@ -12,6 +12,12 @@ This repository contains a conversational retrieval system implemented using the
 
 - **Web API with Flask:** The implementation includes a Flask web application that exposes an API endpoint (`/ask`) for users to submit queries and receive contextual responses.
 
+## Prerequisites
+
+- Python 3.6 or later
+- Flask (`pip install Flask`)
+- LangChain (Install LangChain dependencies as needed)
+  
 ## Setup
 
 1. Install dependencies:
