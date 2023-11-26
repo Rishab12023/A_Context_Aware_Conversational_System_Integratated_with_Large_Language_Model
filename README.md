@@ -52,7 +52,7 @@ This repository contains a conversational retrieval system implemented using the
     -----------------
     Enter your query: what is ginger oil
 
-System Response:
------------------
-Response: ginger oil is an essential oil that is extracted from the ginger root. It has a strong, pungent aroma and is used in a variety of applications, including aromatherapy, cooking, and medicine.
-======================================================================================================================================================================
+    System Response:
+    -----------------
+    Response: ginger oil is an essential oil that is extracted from the ginger root. It has a strong, pungent aroma and is used in a variety of applications, including aromatherapy, cooking, and medicine.
+    ======================================================================================================================================================================
