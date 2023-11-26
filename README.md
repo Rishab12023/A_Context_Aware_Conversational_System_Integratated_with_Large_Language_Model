@@ -20,10 +20,15 @@ This repository contains a conversational retrieval system implemented using the
     pip install -r requirements.txt
     ```
 
-3. Run the Flask application:
+2. Run the main file:
 
     ```bash
-    python app.py
+    python main.py
+    ```
+3. Run the test file:
+   
+    ```bash
+    python test.py
     ```
 
     The application will run on `http://localhost:5000`.
